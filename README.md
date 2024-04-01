@@ -15,6 +15,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 - Un IDE de votre choix (type VSCode, IntelliJ, JetBrains, ...)
 - Git
 - Un navigateur pour pourvoir suivre le cours
+- Un PC, c'est bien aussi !
 ```
 
 ### Installation
